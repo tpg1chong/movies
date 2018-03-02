@@ -21,8 +21,10 @@ d88' `8b   88bP"Y88b   888P"Y88b  "888P"Y88b   888' `88b
 
 /* -- root color --  */
 :root {
-  --main-background: #333;
+  --main-background: #272b2d;
+  --main-border-color: #000;
   --main-color: #fff;
+
 
   --main-link-color: #003283;
   
