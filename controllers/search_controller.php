@@ -7,6 +7,7 @@ class Search_Controller extends Controller {
     }
 
     public function index() {
+    	
         $this->view->render('design/hotel-list');
     }
 }

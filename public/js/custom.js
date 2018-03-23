@@ -568,7 +568,7 @@ var Event = {
 			.fail(function(  ) {
 				// error
 				btnSubmit.removeClass('disabled');
-				self.showMsg({ text: "Error: 100", load: true , auto: true });
+				self.showMsg({ text: "Error: 500", load: true , auto: true });
 
 			});
 	},

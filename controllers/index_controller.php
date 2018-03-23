@@ -16,6 +16,16 @@ class Index_Controller extends Controller {
     }
 
     public function search($page=null) {
-        $this->error();
+
+
+        $this->movie(2017, '');
+        // $this->error();
+    }
+
+    
+    public function movie($year, $name) {
+        
+
+        $this->view->render('movie/profile/display');
     }
 }
