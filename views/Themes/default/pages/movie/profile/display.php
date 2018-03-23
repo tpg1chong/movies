@@ -9,8 +9,8 @@
 	</ul>
 </nav>
 
-<div id="ads" class="container">
-	<div class="ad">
+<div id="ads" class="ads ptm container">
+	<div class="ad pvm">
 		<a href="https://www.movie2free.com/wp-content/themes/next/views/livecasinohouse.php" target="_new"><img src="https://www.movie2free.com/wp-content/themes/next/images/livecasinohouse.gif" width="980" height="120" alt="" style="border: none; height: auto;"></a>
 	</div>
 </div>
@@ -20,7 +20,7 @@
 	<div class="row clearfix">
 		
 		<div class="span9">
-			
+
 			<div  class="profile-page-content" style="padding: 12px;background-color: rgba(0,0,0,.3);border-radius: 8px">
 			<div class="row-fluid clearfix">
 				<div class="span3 side-content">
@@ -37,7 +37,7 @@
 
 					<div class="profile-title mbl">
 						<h1>Tomb Raider</h1>
-						<div class="category"><a class="year">2018</a> / <span>PG-13</span> / <span>1h 51min</span> / <span><a>Fiction</a>, <a>Drama</a></span></div>
+						<div class="category"><a class="year">2018</a> / <span class="">PG-13</span> / <span class="">1h 51min</span> / <span class=""><a>Fiction</a>, <a>Drama</a></span></div>
 					</div>
 
 					 <!-- |  | Action, Adventure, Sci-Fi | 23 March 2018 (USA) -->

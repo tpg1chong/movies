@@ -1357,3 +1357,14 @@ body.home .page-search-wrap{
 /*div.header.large.first.lazyloaded:before {
     filter: opacity(100) grayscale(100%) contrast(130%);
 }*/
+
+
+/*----------------------------------------------------------------------------*/
+/*                                   AD                                       */
+/*----------------------------------------------------------------------------*/
+.ads{
+    text-align: center;
+}
+.ad{
+    display: inline-block;
+}
