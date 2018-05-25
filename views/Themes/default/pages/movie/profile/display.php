@@ -56,7 +56,13 @@
 						<div class="mbs"><h3>Credits</h3></div>
 						
 					</section>
+
+					<video width="400" controls>
+					  <source src="https://drive.google.com/file/d/1ERDTcOTChIxVqJRkE5q4cidgNcc-kQvg/view?usp=sharing" type="video/mp4">
+					  Your browser does not support HTML5 video.
+					</video>
 				</div>
+				
 
 			</div>
 			</div>
