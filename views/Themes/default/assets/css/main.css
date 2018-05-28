@@ -61,7 +61,14 @@ table{width:100%}
 /*----------------------------------------------------------------------------*/
 /*                                   LAYOUT                                   */
 /*----------------------------------------------------------------------------*/
-body{background-color:var(--main-background);overflow-y: scroll;}
+body{background-color:var(--main-background);overflow-y: scroll;
+
+
+
+    background: #1e2931;
+    background: linear-gradient(to right, #1e2931, #293740);
+
+}
 
 /* -- form -- */
 .radio, .checkbox{margin-top: 0;margin-bottom: 0}
